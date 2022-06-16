@@ -1,1 +1,12 @@
-notebooks/** linguist-vendored
+*.ipynb linguist-vendored=false
+*.ipynb linguist-detectable=false
+
+/jupyter_notebooks linguist-vendored=false
+
+jupyter_notebooks/** linguist-vendored
+
+jupyter_notebooks/** linguist-vendored=false
+
+
+jupyter_notebooks/* linguist-vendored
+jupyter_notebooks/* linguist-vendored=false
